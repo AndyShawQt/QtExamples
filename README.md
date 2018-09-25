@@ -10,5 +10,7 @@ These examples can be used freely and do not contain anything restrictive in the
 
 - b2qt - place for b2qt related examples
    - raspi3gpio - example on how to use gpio with raspi3 and b2qt  
-   - wiringpitest - example on how to use wiringpi  with raspi3 and b2qt
+   - wiringpitest - example on how to use wiringpi with raspi3 and b2qt
 
+- android
+   - service - Demostrates how to get a service working on Android
