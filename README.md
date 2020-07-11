@@ -10,6 +10,7 @@ These examples can be used freely and do not contain anything restrictive in the
 
 - 3d
    - textureImageDateGenerator - Demostrates how to dynamically update a texture using QTextureImageDataGenerator
+   - geometryRenderer - Demostrates how to do basic geometry rendering using Lines + Triangles to make squares
 
 - b2qt - place for b2qt related examples
    - raspi3gpio - example on how to use gpio with raspi3 and b2qt  
